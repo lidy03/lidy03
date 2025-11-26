@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou a Lidy Santos</h1>
+## ** Sobre mim **
 
-<!--
-**lidy03/lidy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduada em Engenharia de Software pela Universidade Federal do Amazonas (UFAM), tenho desenvolvimento web e móvel como principais interesses, mas também me aventuro em ciência de dados.
 
-Here are some ideas to get you started:
+## ** Habilidades Técnicas **
+- **Python**
+- **Kotlin**
+- **JavaScript**
+- **R**
+- **HTML & CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks & Ferramentas
+- **React**
+- **FastAPI**
+- **Node.js + Express**
+- **Pandas**
+- **Git & GitHub**
+
+## ** Onde me encontrar **
+- 📧 **lems.lidy@gmail.com**
+- 🐙 **GitHub:** https://github.com/lidy03
