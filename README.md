@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou a Lidy Santos</h1>
-## Sobre mim
+# Sobre mim
 
 Sou graduada em Engenharia de Software pela Universidade Federal do Amazonas (UFAM), tenho desenvolvimento web e móvel como principais interesses, mas também me aventuro em ciência de dados.
 
